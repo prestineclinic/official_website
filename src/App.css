@@ -934,6 +934,7 @@ body{
   .modal-content {
     border-radius: 0; /* remove rounded corners for full-screen effect */
     width: 100%;
+    top: 15%;
     height: 100vh; /* full screen height */
     max-height: 100vh;
   }
